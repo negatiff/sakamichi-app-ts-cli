@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "/Users/mariobro/Downloads/sakamichi-images/.log/.aa53c23e5a4acbee2b6f4c85efe692971ccf55ae-audit.json",
+    "files": [
+        {
+            "date": 1709741790116,
+            "name": "/Users/mariobro/Downloads/sakamichi-images/.log/logging-2024-03-07.log",
+            "hash": "c4f6948a5f022a5c35c9fde197b6775957e58eb13c97f0eadbd46f0791796ac8"
+        }
+    ],
+    "hashType": "sha256"
+}
