@@ -3,3 +3,4 @@
 {"level":"error","message":"Whoops, seems that your nogitalk refresh token is invalid, process exiting.."}
 {"level":"error","output":[null,null,null],"pid":11303,"signal":null,"status":1,"stderr":null,"stdout":null}
 {"level":"error","output":[null,null,null],"pid":11368,"signal":null,"status":1,"stderr":null,"stdout":null}
+{"level":"error","output":[null,null,null],"pid":12381,"signal":null,"status":1,"stderr":null,"stdout":null}
